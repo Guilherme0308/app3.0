@@ -1,0 +1,16 @@
+ion-tab-button {
+    ion-icon {
+      color: white;   }
+  
+    &.tab-selected {
+      ion-icon {
+        color: orangered;      }
+    }
+  
+    ion-label {
+      color: white;   }
+  
+    &.tab-selected ion-label {
+      color: orangered;  }
+  }
+  
